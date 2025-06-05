@@ -1,7 +1,7 @@
-# 🚀 LORVEN - Tech Education Platform
+# 🚀 VENATRIKS - Tech Education Platform
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1571260899304-425eee4c7efc?auto=format&fit=crop&w=1200&q=80" alt="LORVEN Platform" width="800"/>
+  <img src="https://images.unsplash.com/photo-1571260899304-425eee4c7efc?auto=format&fit=crop&w=1200&q=80" alt="VENATRIKS Platform" width="800"/>
   
   [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-blue.svg)](https://www.typescriptlang.org/)
@@ -18,7 +18,7 @@
 Visit us at: [doutly.com](https://doutly.com)
 
 ## 📝 About
-LORVEN is a modern tech education platform designed to empower GenZ learners with industry-relevant skills. The platform offers comprehensive training programs in cloud technologies, full-stack development, and more, preparing students for successful tech careers.
+VENATRIKS is a modern tech education platform designed to empower GenZ learners with industry-relevant skills. The platform offers comprehensive training programs in cloud technologies, full-stack development, and more, preparing students for successful tech careers.
 
 ### 🌟 Key Features
 - 🎯 Industry-aligned curriculum
@@ -53,7 +53,7 @@ LORVEN is a modern tech education platform designed to empower GenZ learners wit
 
 ## 📁 Project Structure
 ```
-lorven-website/
+VENATRIKS-website/
 ├── src/
 │   ├── components/    # UI components
 │   ├── pages/        # Page components

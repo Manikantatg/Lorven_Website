@@ -92,7 +92,7 @@ const App: React.FC = () => {
       <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled ? 'bg-white shadow-md py-2' : 'bg-transparent py-4'}`}>
         <div className="container mx-auto px-4 flex items-center justify-between">
           <div className="flex items-center">
-            <h1 className="text-2xl font-bold text-gray-800">LORVEN</h1>
+            <h1 className="text-2xl font-bold text-gray-800">VENATRIKS</h1>
           </div>
         </div>
       </header>
@@ -173,10 +173,10 @@ const App: React.FC = () => {
       <section id="about" className="py-20 bg-[#F8FAFC]">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <Badge className="bg-[#F5F0FF] text-[#8B5CF6] mb-4">About LORVEN</Badge>
+            <Badge className="bg-[#F5F0FF] text-[#8B5CF6] mb-4">About VENATRIKS</Badge>
             <h2 className="text-3xl md:text-4xl font-bold mb-6">Our Mission to Empower GenZ Tech Talent</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              LORVEN is dedicated to bridging the gap between academic learning and industry requirements, 
+              VENATRIKS is dedicated to bridging the gap between academic learning and industry requirements, 
               equipping students with practical skills that make them job-ready from day one.
             </p>
           </div>
@@ -461,8 +461,8 @@ const App: React.FC = () => {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
             <div>
-              <Badge className="bg-[#E6F0FF] text-[#3B82F6] mb-4">Why Choose LORVEN</Badge>
-              <h2 className="text-3xl md:text-4xl font-bold mb-6">The LORVEN Advantage for GenZ Learners</h2>
+              <Badge className="bg-[#E6F0FF] text-[#3B82F6] mb-4">Why Choose VENATRIKS</Badge>
+              <h2 className="text-3xl md:text-4xl font-bold mb-6">The VENATRIKS Advantage for GenZ Learners</h2>
               <p className="text-gray-600 mb-8">
                 We understand the unique needs and learning styles of today's students. Our programs are designed to be engaging, 
                 relevant, and directly applicable to the current job market.
@@ -746,7 +746,7 @@ const App: React.FC = () => {
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-6 text-white">Kickstart Your Tech Career with Confidence</h2>
             <p className="text-xl text-white/90 mb-8">
-              Join thousands of successful students who have transformed their careers through LORVEN's industry-leading programs.
+              Join thousands of successful students who have transformed their careers through VENATRIKS's industry-leading programs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button className="bg-white text-[#3B82F6] hover:bg-gray-100 px-8 py-6 text-lg !rounded-button whitespace-nowrap cursor-pointer">
@@ -827,7 +827,7 @@ const App: React.FC = () => {
       <section className="py-16 bg-[#F8FAFC]">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
-            <h2 className="text-2xl font-bold mb-4">Stay Updated with LORVEN</h2>
+            <h2 className="text-2xl font-bold mb-4">Stay Updated with VENATRIKS</h2>
             <p className="text-gray-600 mb-8">
               Subscribe to our newsletter for the latest course offerings, tech trends, and exclusive learning resources.
             </p>
@@ -850,7 +850,7 @@ const App: React.FC = () => {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-16">
             <div>
-              <h3 className="text-2xl font-bold text-gray-800 mb-4">LORVEN</h3>
+              <h3 className="text-2xl font-bold text-gray-800 mb-4">VENATRIKS</h3>
               <p className="text-gray-600 mb-6">
                 Empowering GenZ tech talent with industry-relevant skills and career opportunities.
               </p>
@@ -901,7 +901,7 @@ const App: React.FC = () => {
                 </li>
                 <li className="flex items-start">
                   <i className="fas fa-envelope text-[#3B82F6] mt-1 mr-3"></i>
-                  <span className="text-gray-600">hello@lorven.edu</span>
+                  <span className="text-gray-600">hello@VENATRIKS.edu</span>
                 </li>
                 <li className="flex items-start">
                   <i className="fas fa-phone text-[#3B82F6] mt-1 mr-3"></i>
@@ -917,7 +917,7 @@ const App: React.FC = () => {
 
           <div className="pt-8 border-t border-gray-100 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-500 text-sm mb-4 md:mb-0">
-              © 2025 LORVEN Tech Education. All rights reserved.
+              © 2025 VENATRIKS Tech Education. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-500 text-sm hover:text-gray-700 cursor-pointer">Privacy Policy</a>
