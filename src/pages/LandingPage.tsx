@@ -861,10 +861,10 @@ const App: React.FC = () => {
                 <a href="#" className="text-gray-400 hover:text-[#3B82F6] transition-colors cursor-pointer">
                   <i className="fab fa-linkedin text-xl"></i>
                 </a>
-                <a href="#" className="text-gray-400 hover:text-[#3B82F6] transition-colors cursor-pointer">
+                <a href="https://www.instagram.com/venatriks_com?igsh=MXNrZGU2NXk5d2Nhcw==" className="text-gray-400 hover:text-[#3B82F6] transition-colors cursor-pointer">
                   <i className="fab fa-instagram text-xl"></i>
                 </a>
-                <a href="#" className="text-gray-400 hover:text-[#3B82F6] transition-colors cursor-pointer">
+                <a href="https://www.youtube.com/@venatriks" className="text-gray-400 hover:text-[#3B82F6] transition-colors cursor-pointer">
                   <i className="fab fa-youtube text-xl"></i>
                 </a>
               </div>
@@ -897,15 +897,15 @@ const App: React.FC = () => {
               <ul className="space-y-3">
                 <li className="flex items-start">
                   <i className="fas fa-map-marker-alt text-[#3B82F6] mt-1 mr-3"></i>
-                  <span className="text-gray-600">123 Tech Campus Way, San Francisco, CA 94107</span>
+                  <span className="text-gray-600">304,Nenapu Electronic City Appartment,Electronic City Phase-1, Bangalore - 560100 ,</span>
                 </li>
                 <li className="flex items-start">
                   <i className="fas fa-envelope text-[#3B82F6] mt-1 mr-3"></i>
-                  <span className="text-gray-600">hello@VENATRIKS.edu</span>
+                  <span className="text-gray-600">reachout@venatriks.com</span>
                 </li>
                 <li className="flex items-start">
                   <i className="fas fa-phone text-[#3B82F6] mt-1 mr-3"></i>
-                  <span className="text-gray-600">+1 (800) 555-TECH</span>
+                  <span className="text-gray-600">+91-7022776637</span>
                 </li>
                 <li className="flex items-start">
                   <i className="fab fa-whatsapp text-[#3B82F6] mt-1 mr-3"></i>
